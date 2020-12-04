@@ -1,21 +1,22 @@
-### Saludos 👋
+# Saludos 👋
 
 
+Mi nombre es Mauricio Alí,soy ingeniero electronico aprendiz de DataScience y de todo el increible mundo de la inteligencia artificial.
 
+Aqui encontraras una lista de los microproyectos en los que estoy trabajando,te invito aprender de ellos e intentar mejorarlos,me encantaria ver tu version.
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+## Bots
+(http://https://github.com/MauricioAli/Python_basic_telegrambots)
 
-<!--
-**MauricioAli/MauricioAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Firebase
 
-Here are some ideas to get you started:
+(http://https://github.com/MauricioAli/GoogleForm-to-firebase)
+(https://github.com/MauricioAli/Firebase_realtime_to_python_basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dash ploty
+https://github.com/MauricioAli/DataGalaxy-Dashboard
+
+## WebScraping 
+pendiende
+## TensorFlow.js
+pendiente
