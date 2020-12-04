@@ -1,5 +1,10 @@
 ### Saludos 👋
 
+
+
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
 <!--
 **MauricioAli/MauricioAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
