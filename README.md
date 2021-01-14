@@ -6,7 +6,7 @@ Mi nombre es Mauricio Alí,soy ingeniero electronico aprendiz de DataScience y d
 Aqui encontraras una lista de los microproyectos en los que estoy trabajando,te invito aprender de ellos e intentar mejorarlos,me encantaria ver tu version.
 
 ## Bots
-http://https://github.com/MauricioAli/Python_basic_telegrambots
+https://github.com/MauricioAli/Python_basic_telegrambots
 
 ## Firebase
 
