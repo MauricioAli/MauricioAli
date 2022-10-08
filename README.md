@@ -1,7 +1,7 @@
 # Saludos 👋
 
 
-Mi nombre es Mauricio Alí,soy ingeniero electronico aprendiz de DataScience y de todo el increible mundo de la inteligencia artificial.
+Mi nombre es Mauricio Alí
 
 Aqui encontraras una lista de los microproyectos en los que estoy trabajando,te invito aprender de ellos e intentar mejorarlos,me encantaria ver tu version.
 
